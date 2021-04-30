@@ -1,3 +1,3 @@
-# Privilege
+# groupon_presale_flashsale
 
-2020年面向对象分析与设计，软件工程和JavaEE平台技术的课程设计必做模块
+This is the module presale, module groupon (group purchase) and module flashsale of the project OOMALL (https://git.xmu.edu.cn/mingqiu/privilege.git).
